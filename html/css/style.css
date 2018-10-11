@@ -17,3 +17,22 @@
   margin-left: auto;
   margin-right: auto;
 }
+.service-box {display:inline-block; background:#ffffff; width:360px; min-height:745px; margin: 150px 5px; -webkit-box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.2); box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.2);}
+
+.y-box {background:#fad900; position:relative; height:75px; width:100%;}
+
+.service-box .circle {width:176px; height:176px; position:absolute; left:0; right:0; margin:-102px auto 0; border:10px solid #fad900; border-radius:50%; -o-border-radius:50%; -ms-border-radius:50%; -moz-border-radius:50%; -webkit-border-radius:50%; background:#ffffff; text-align:center; -webkit-box-shadow: inset 0px 5px 5px 0px rgba(0, 0, 0, 0.09); -moz-box-shadow: inset 0px 5px 5px 0px rgba(0, 0, 0, 0.09); box-shadow: inset 0px 5px 5px 0px rgba(0, 0, 0, 0.09);}
+
+.icon {width:160px; height:160px; text-align:center; vertical-align:middle; display:table-cell;}
+
+.service-info {padding:40px 27px; text-align:center;}
+
+.service-box h2 {font-size:25px; line-height:28px; color:#333333; margin:0 0 32px; text-transform:uppercase;}
+
+.service-box p {font-size:19px; line-height:26px; color:#868686; margin:0 0 30px;}
+
+.service-price {display:block; font-size:22px; line-height:24px; color:#585858; margin:0 0 34px; font-weight:600; font-family:'Lato', sans-serif;}
+
+.service-price strong {display:block; font-size:44px; line-height:50px; color:#ce0b09; margin:10px 0 0; font-weight:900;}
+
+.service-box p strong {display:block; font-size:17px; line-height:26px; color:#585858; margin:0 0 34px;}
